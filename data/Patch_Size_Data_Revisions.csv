@@ -1,4 +1,4 @@
-PatientNumber,Names,Revision,Disease,Ages,TotalCrypts,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+PatientNumber,Names,FlashFrozen,Disease,Ages,TotalCrypts,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
 1,39,TRUE,Normal,79,4919,228,71,23,6,3,2,1,0,0,0,0,0,0,0,0
 2,37,TRUE,Normal,60,3547,54,1,2,2,0,0,0,0,0,0,0,0,0,0,0
 3,38,TRUE,Normal,64,6958,86,6,1,0,0,0,0,0,0,0,0,0,0,0,0
